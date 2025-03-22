@@ -10,7 +10,7 @@ Run the following command to clone the project repository locally:
 ```
 git clone https://github.com/fossbuilder/adventofcode2024day1.git
 ```
-or
+*or*
 
 Download a ZIP copy of the repository from [github.com](https://github.com/fossbuilder/adventofcode2024day1/archive/refs/heads/main.zip).
 ## Requirements
@@ -18,7 +18,7 @@ This project requires [Node.js](https://nodejs.org/en) version 23.7.0. Follow th
 \
 If you have [Node.js](https://nodejs.org/en) 23.7.0 or higher installed on your system, proceed to [Installation](#Installation).
 ## Installation
-In the project folder, run in Terminal or Command Line window:
+In the project folder, run:
 ```
 npm install
 ```
