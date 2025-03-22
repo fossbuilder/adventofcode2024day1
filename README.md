@@ -40,7 +40,7 @@ Unit testing is done with [Jest](https://jestjs.io) v9.7.0.
 
 To execute unit tests:
 ```
-npx jest
+npm run test
 ```
 A **coverage report** will be created in the generated `./coverage` folder. Open `./coverage/index.html` to view the **coverage report**.
 ## License
